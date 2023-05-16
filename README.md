@@ -1,5 +1,5 @@
 # WebScraperForCSUDHClubs
-This project serves as an efficient web scraper, dedicated to extracting vital information from the HTML file sourced from https://torolink.csudh.edu/organizations. By harnessing its capabilities, you can effortlessly scrape club names and their corresponding hyperlinks. But that's not all—this project goes the extra mile by creating a default response for an AI, leveraging the concatenated club names.
+This project serves as an efficient web scraper, dedicated to extracting vital information from the HTML file sourced from https://torolink.csudh.edu/organizations. By harnessing its capabilities, you can effortlessly scrape club names and their corresponding hyperlinks. But that's not all—this project goes the extra mile by creating a default response for an AI (called ask-teddy), leveraging the concatenated club names.
 
 Contained within this repository are 1 Java file and 4 text files, each playing a crucial role in the project's functionality. The "about.txt" file holds the frequently asked questions about clubs, serving as a key component in creating the default response. It is expertly combined with the club names, forming a comprehensive answer for the AI.
 
